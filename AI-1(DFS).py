@@ -20,4 +20,5 @@ graph = {
 }
 
 print("DFS starting from A:")
-dfs(graph, 'B')
+dfs(graph, 'A')
+
