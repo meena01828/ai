@@ -20,4 +20,5 @@ graph = {
 }
 
 print("BFS starting from A:")
-bfs(graph, 'D')
+bfs(graph, 'A')
+
